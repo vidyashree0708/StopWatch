@@ -24,6 +24,7 @@ h1{
     margin: 50px 100px 50px -40px;
     align-items: center;
 }
+/* styling for buttons with animations*/
 button {
     font-size: 1em;
     padding: 10px 20px;
